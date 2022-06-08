@@ -1,11 +1,31 @@
 body {
 	font-size: 16px;
 	color: antiquewhite;
-	background-color: thistle;
+	background: linear-gradient(0deg, #b6e1e0 7.8%, #9cd3d3 16%, #e8630a 32.7%, #2b4353 7.8%);
 	font-family: 'Klee One', cursive;
 }
+
 h1 {
-	font-size: 48px;
-	color: saddlebrown;
-	background-color: antiquewhite;
+	text-align: center;
+	font-size: 96px;
+	font-weight: bold;
+	color: #e8630a;
+	font-family: 'Bangers', cursive;
+}
+
+
+.first-color { 
+	background: #b6e1e0; 
+}
+	
+.second-color { 
+	background: #9cd3d3; 
+}
+
+.third-color { 
+	background: #e8630a; 
+}
+
+.fourth-color { 
+	background: #2b4353; 
 }
