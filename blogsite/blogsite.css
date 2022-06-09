@@ -26,6 +26,8 @@ li {
 }
 
 li a {
+  font-family: 'Bangers', cursive;
+  font-weight: bold;
   display: block;
   color: #2b4353;
   text-align: center;
@@ -33,9 +35,9 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color on hover */
 li a:hover {
-  background-color: #b6e1e0;
+  background-color: #9cd3d3;
 }
 
 
