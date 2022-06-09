@@ -13,6 +13,31 @@ h1 {
 	font-family: 'Bangers', cursive;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e8630a;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #2b4353;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #b6e1e0;
+}
+
 
 .first-color { 
 	background: #b6e1e0; 
